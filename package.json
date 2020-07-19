@@ -1,0 +1,27 @@
+{
+  "name": "siteRocket3_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosWAlmeida/desafioRocket_2-1_a_2-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosWAlmeida/desafioRocket_2-1_a_2-3/issues"
+  },
+  "homepage": "https://github.com/MarcosWAlmeida/desafioRocket_2-1_a_2-3#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
